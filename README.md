@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-online-brightgreen)]()
 [![HTML/CSS](https://img.shields.io/badge/feito%20com-HTML%20%26%20CSS-blueviolet)]()
 
-**PagGoogle** é um projeto que propõe o desafio de recriar a página inicial do Google com diferentes variações temáticas por continente. Cada versão possui design, imagens e estilos personalizados, demonstrando domínio de HTML5 e CSS3.
+**PagGoogle** é um projeto que propõe o desafio de recriar a página inicial do Google
 
 ---
 
